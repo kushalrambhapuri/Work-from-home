@@ -1,4 +1,4 @@
-# Work-from-home
+# Work from home automation bot
 Now you can rest easy while your laptop stays active all day! This simple Python script automates basic mouse and keyboard activity to ensure your system doesn’t go idle.
 I created this bot using PyCharm, a popular Python code editor. Follow the steps below to replicate this automation on your own system:
 Prerequisites
